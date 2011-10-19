@@ -74,13 +74,13 @@ public class JDlg extends JFrame {
 		txtY.setBounds(57, 18, 40, 19);
 		contentPane.add(txtY);
 		txtY.setColumns(10);
-		txtY.setText(((Integer)(int)camX).toString());
+		txtY.setText(((Integer)(int)camY).toString());
 		
 		txtZ = new JTextField();
 		txtZ.setBounds(100, 18, 40, 19);
 		contentPane.add(txtZ);
 		txtZ.setColumns(10);
-		txtZ.setText(((Integer)(int)camX).toString());
+		txtZ.setText(((Integer)(int)camZ).toString());
 		
 		JLabel lblX = new JLabel("x");
 		lblX.setBounds(26, -2, 15, 19);
