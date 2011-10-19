@@ -1,4 +1,5 @@
-package de.ericsch.jopengl.klassen3d;
+package de.fh_zwickau.cg3d.teapot.klassen3d;
+
 
 public class JVector3D {
 	private float dx;

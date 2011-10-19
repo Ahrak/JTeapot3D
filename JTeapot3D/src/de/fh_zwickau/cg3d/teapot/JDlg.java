@@ -15,8 +15,8 @@ import javax.swing.border.EmptyBorder;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
-import de.ericsch.jopengl.klassen3d.JPoint3D;
-import de.ericsch.jopengl.klassen3d.JVector3D;
+import de.fh_zwickau.cg3d.teapot.klassen3d.JPoint3D;
+import de.fh_zwickau.cg3d.teapot.klassen3d.JVector3D;
 
 public class JDlg extends JFrame {
 

@@ -1,4 +1,4 @@
-package de.ericsch.jopengl.klassen3d;
+package de.fh_zwickau.cg3d.teapot.klassen3d;
 
 public class JPoint3D {
 	private float x;

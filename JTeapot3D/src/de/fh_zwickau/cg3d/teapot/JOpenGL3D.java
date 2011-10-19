@@ -1,7 +1,7 @@
 package de.fh_zwickau.cg3d.teapot;
 
-import de.ericsch.jopengl.klassen3d.JPoint3D;
-import de.ericsch.jopengl.klassen3d.JVector3D;
+import de.fh_zwickau.cg3d.teapot.klassen3d.JPoint3D;
+import de.fh_zwickau.cg3d.teapot.klassen3d.JVector3D;
 
 public abstract class JOpenGL3D extends JOpenGL{
 
