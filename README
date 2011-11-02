@@ -1,0 +1,8 @@
+Libs
+========
+
+jogl: http://jogamp.org/deployment/jogamp-current/jar/
+
+* jogl.all.jar
+* gluegen.jar
+* jogl-all-(platform).jar
